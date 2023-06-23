@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Downloads\olcExampleProgram.cpp" />
+    <ClCompile Include="..\..\..\..\Downloads\PongMain.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\Downloads\olcPixelGameEngine.h" />
